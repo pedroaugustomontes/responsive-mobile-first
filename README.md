@@ -1,7 +1,7 @@
 <h1 align="center">
     <a href="https://mrpmontes.github.io/responsive-mobile-first/">
         <img alt="Logo que contém um link que leva até a página Responsividade" title="Logo que contém um link que leva até a página Responsividade" 
-        src="mobile-first.jpg" width="50%" height="50%" />
+        src="mobile-first.jpg" width="200px" />
     </a>
 </h1>
 
